@@ -46,7 +46,7 @@ Invertir únicamente la primera mitad de una lista utilizando slicing.
 Ejecución
 
 1. Clonar este repositorio:
-    git clone <URL>
+    git clone https://github.com/LMellaVillanueva/lists_exercises_py.git
 
 2. Entrar al directorio del proyecto:
     cd ejercicios
